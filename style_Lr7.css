@@ -1,0 +1,248 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #FFFAEE;
+}
+
+::-webkit-scrollbar{
+    background-color: rgb(219, 212, 179);
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #544E2F;
+    border-radius: 10px;
+}
+
+/*Информация*/
+
+.h_hinkali{
+    font-size: 56px;
+    font-weight: 700;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0px;
+}
+
+.hinkali_img{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h_info{
+    font-size: 34px;
+    font-weight: 400;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+}
+
+.info{
+    font-size: 24px;
+    font-weight: 400;
+    color: #544E2F;
+    width: 94%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px 0px;
+
+}
+
+.hinkali_img2{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info2{
+    font-size: 24px;
+    font-weight: 400;
+    color: #544E2F;
+    width: 94%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px 0px;
+}
+
+/*Рецепт*/
+
+.h_recipe{
+    font-size: 56px;
+    font-weight: 700;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0px;
+}
+
+.hinkali_img3{
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.value_nutrition{
+    font-size: 34px;
+    font-weight: 400;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.t_value_nutrition{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0;
+    color: #544E2F;
+}
+
+.ingredients{
+    font-size: 34px;
+    font-weight: 400;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.t_ingredients{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0;
+    color: #544E2F;
+}
+
+.instructions{
+    font-size: 34px;
+    font-weight: 400;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.flex_step1{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step1{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step2{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step2{
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step3{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step3{
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step4{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step4{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step5{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step5{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step6{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step6{
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step7{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step7{
+    padding-left: 20px;
+    padding-top: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.flex_step8{
+    display: inline-flex;
+    padding: 30px;
+}
+
+.step8{
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #544E2F;
+}
+
+.appetite{
+    font-size: 34px;
+    font-weight: 400;
+    color: #544E2F;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 20px;
+}
